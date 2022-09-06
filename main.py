@@ -66,7 +66,7 @@
 #         n = n + 1
 # print(f"Your updated ranking is {ranking1}")
 
-# task6 (не могу )
+# task6 (не доковыряла и принципиаьно не поняла, как не по буквам выводить на печать)
 x = 3
 # could be as many as needed
 i = 1
